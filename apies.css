@@ -1,0 +1,20 @@
+/* fieldset{ */
+    background-color: rgb(30, 0, 255);
+/* } */
+#name{
+    font-size: large;
+    background-color: brown;
+}
+
+#email{
+    font-size: large;
+    background-color: brown;
+}
+#password{
+    font-size: large;
+    background-color: brown;
+}
+save{
+    font-size: large;
+    background-color: brown;
+}
